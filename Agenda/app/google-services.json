@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217094406023",
+    "project_id": "ace-resolver-306918",
+    "storage_bucket": "ace-resolver-306918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217094406023:android:0ab828b95724d204239d22",
+        "android_client_info": {
+          "package_name": "com.miguel.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217094406023-5okn0tpkugkdma14foegrdjqh3t722sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QMbk8X_MWF9qokHLHRP36GTd5vVRiuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217094406023-5okn0tpkugkdma14foegrdjqh3t722sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
